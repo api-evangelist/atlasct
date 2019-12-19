@@ -1,0 +1,67 @@
+{
+    "name": "AtlasCT",
+    "description": "AtlasCT is a global leader in maps and location-based services (LBS) technologies for mobile and web.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/353-atlasct.jpg",
+    "tags": [
+        "api provider",
+        "checkins",
+        "have api",
+        "locations",
+        "maps"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/atlasct\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AtlasCT",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/353-atlasct.jpg",
+            "humanURL": "http:\/\/www.atlasct.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/atlasct-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/atlasct"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/atlasct"
+        },
+        {
+            "type": "Email",
+            "url": "info@atlasct.com"
+        },
+        {
+            "type": "Email",
+            "url": "shlomoe@atlasct.com"
+        },
+        {
+            "type": "Email",
+            "url": "yogev.triki@atlasct.com"
+        },
+        {
+            "type": "Email",
+            "url": "benyr@atlasct.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/atlas_ct"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.atlasct.com\/"
+        }
+    ]
+}
